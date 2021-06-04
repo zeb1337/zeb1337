@@ -8,4 +8,4 @@
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=zeb1337&show_icons=true&theme=dark)
 
-<img src="https://komarev.com/ghpvc/?username=zeb1337&color=greye" alt="fax" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=zeb1337&color=grey" alt="fax" width="" height="">
